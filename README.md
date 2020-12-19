@@ -25,9 +25,9 @@ Hello! My name is Niki, and I am a passionate programming learner who is current
 
 <img align="left" alt="Private GitHub Repo Stats" src="https://github-readme-stats.vercel.app/api?username=merashie&custom_title=Private GitHub Repo Stats&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple&title_color=3d4aff&hide=contribs,issues" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niki-Sklirou&layout=compact&hide_border=true&theme=midnight-purple&icon_color=4b33ffl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niki-Sklirou&layout=compact&hide_border=true&theme=midnight-purple&icon_color=4b33ffl)](https://github.com/Niki-Sklirou/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Niki_Sklirou&show_icons=true&hide_border=true&theme=midnight-purple&icon_color=4b33ff)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Niki_Sklirou&show_icons=true&hide_border=true&theme=midnight-purple&icon_color=4b33ff)](https://github.com/Niki-Sklirou/github-readme-stats)
 
 
 
