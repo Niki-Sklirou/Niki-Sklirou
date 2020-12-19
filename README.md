@@ -7,10 +7,6 @@ Hello! My name is Niki, and I am a passionate programming learner who is current
 - Currently working on projects like making bots & task automation.
 - **2021 Goals:** Do the Udacity *AI Programming with Python* course & get deeply into ML.
 
-### Where to Find Me:
-
-[<img align="left" alt="codewars.com src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" />][codewars]
-
 ## Languages & Tools:
 
 - <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python
