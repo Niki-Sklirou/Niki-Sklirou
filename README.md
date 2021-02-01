@@ -27,9 +27,6 @@ Hello! My name is Niki, and I am a passionate programming learner who is current
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niki-Sklirou&layout=compact&hide_border=true&theme=midnight-purple&icon_color=4b33ffl)](https://github.com/Niki-Sklirou/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Niki_Sklirou&show_icons=true&hide_border=true&theme=midnight-purple&icon_color=4b33ff)](https://github.com/Niki-Sklirou/github-readme-stats)
-
-
 
  <!--START_SECTION:activity-->
 
