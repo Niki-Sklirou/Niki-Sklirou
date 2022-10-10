@@ -1,13 +1,19 @@
 # About Me
 
-Hello! My name is Niki, and I am a passionate programming learner who is currently doing courses and taking some projects on the side.
+Hello! My name is Niki and I love to code! 
 
 - My favorite language is Python!
 - I have some experience making sites using HTML & CSS.
 - Currently working on projects like making bots & task automation.
-- **2021 Goals:** Do the Udacity *AI Programming with Python* course & get deeply into ML.
+- I started out as self-taught, but currently taking actual lessons!
 
-## Languages & Tools:
+### What's New
+
+- **09/2022:** Finished the Udacity course *AI Programming with Python*!
+- **10/2022:** Finally started attending a university for computer science! 🤗
+
+
+## Languages & Tools
 
 - <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python
 -  <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML5
@@ -19,7 +25,7 @@ Hello! My name is Niki, and I am a passionate programming learner who is current
 
 ---
 
-## Stats:
+## Stats
 
 <img align="left" alt="Niki-Sklirou's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Niki-Sklirou&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple&icon_color=4b33ff" />
 
